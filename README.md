@@ -4,7 +4,7 @@ Our community-driven approach ensures that our content reflects the latest indus
 
 ## How to Contribute
 
-Contributions are welcome! If you want to contribute to this project, follow these steps:
+Contributions are welcome! If you find any issues, have improvements to suggest, or want to add more content, please feel free to contribute! Follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b feature/new-feature`
