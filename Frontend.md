@@ -48,7 +48,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
   having some familiarity with Linux and WSL can broaden your skill set and make you more versatile as a web developer, especially if you plan to work on projects that involve Linux-based servers 🐧.
 
-## NOTE:
+---
 
 ### Hey everyone! 👋 Just a quick heads-up as we embark on this exciting journey into front-end development. The roadmap and resources shared are fantastic starting points, and they've personally been incredibly helpful for me as a college student.
 
