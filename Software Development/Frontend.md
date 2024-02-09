@@ -2,7 +2,7 @@
 
 As a college student aspiring to become a front-end developer and land your first job, here are some essential things you should focus on learning:
 
-1. **HTML/CSS:**
+1. **HTML/CSS**
 
    Master the fundamentals of HTML for structuring web content and CSS for styling. Understand responsive design for creating websites that work well on various devices.
 
@@ -10,7 +10,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
 - 📺 [HTML Tutorial For Beginners](https://youtu.be/Y2LIDLmfWho?feature=shared) from simplilearn.
 
-2. **JavaScript:**
+2. **JavaScript**
 
    Learn JavaScript thoroughly as it is the core language for front-end development. Focus on DOM manipulation, asynchronous programming, and basic algorithms.
 
@@ -18,7 +18,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
 - 📺 [Learn Javascript in 12 Hours](https://youtu.be/X3Ls1noez2o?feature=shared) from simplilearn.
 
-2. **Frameworks and Libraries:**
+2. **Frameworks and Libraries**
 
    Familiarize yourself with popular front-end frameworks and libraries such as React, Angular, or Vue.js. These tools help in building dynamic and interactive user interfaces.
 
@@ -28,7 +28,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
 - 📺 [React.js](https://youtu.be/-JolQDZCMX8?feature=shared) from simplilearn.
 
-3. **Version Control:**
+3. **Version Control**
 
    Understand the basics of version control, particularly Git. This is crucial for collaborative coding and is widely used in the industry.
 
@@ -36,7 +36,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
 - 📺 [Git And Github Tutorial For Beginners](https://www.youtube.com/watch?v=ev_byvSWvr0&list=PLEiEAq2VkUUJs7lyLgSsRlnd9syrFBzSM) from simplilearn.
 
-4. **Command Line Basics:**
+4. **Command Line Basics**
 
    Understand the basics of command line navigation and usage. This is essential for efficient development and collaboration.
 
@@ -44,7 +44,7 @@ As a college student aspiring to become a front-end developer and land your firs
 
 - 📺 [30 Windows Commands you CAN’T live without](https://youtu.be/prVHU1fLR20?feature=shared) from NetworkChuck.
 
-  **optional:**
+  **optional**
 
   having some familiarity with Linux and WSL can broaden your skill set and make you more versatile as a web developer, especially if you plan to work on projects that involve Linux-based servers 🐧.
 
