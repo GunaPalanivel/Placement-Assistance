@@ -50,6 +50,12 @@ As a college student aspiring to become a front-end developer and land your firs
 
 ---
 
+## THE COMPLETE FRONT-END DEVELOPER COURSES:
+
+### WIP: Developer will add the complete courses for the Frontend Developer Course later.
+
+---
+
 ### Hey everyone! 👋 Just a quick heads-up as we embark on this exciting journey into front-end development. The roadmap and resources shared are fantastic starting points, and they've personally been incredibly helpful for me as a college student.
 
 ### However, it's crucial to note that the tech landscape is ever-evolving, and what's covered here forms a robust foundation. While this roadmap provides a great kickstart, landing that dream job also involves going beyond the basics.
