@@ -6,15 +6,14 @@ Our community-driven approach ensures that our content reflects the latest indus
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Certifications](#certifications)
-- [Complete Roadmap](#complete-roadmap)
-- [Data Science](#data-science)
-- [Interview](#interview)
-- [Software Development](#software-development)
+- [Certifications](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Certifications)
+- [Complete Roadmap](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Complete%20Roadmap)
+- [Data Science](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Data%20Science)
+- [Interview](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Interview)
+- [Software Development](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Software%20Development)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
-- [Discussion](#discussion)
+- [Discussion](https://github.com/GunaPalanivel/Placement-Assistance/discussions)
 
 ## Discussion
 
