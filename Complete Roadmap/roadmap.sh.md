@@ -2,19 +2,16 @@
 
 This project is inspired by the comprehensive roadmaps provided by [roadmap.sh](https://roadmap.sh/), a platform dedicated to offering detailed guides and resources for various technology career paths. The roadmaps on roadmap.sh are designed to help individuals navigate their learning journeys, providing a step-by-step guide on what to learn and in what order.
 
-## Roadmaps Available
+## Roadmaps Available (We mentioned here only a few of them)
 
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend)
 - [Backend Developer Roadmap](https://roadmap.sh/backend)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [React Developer Roadmap](https://roadmap.sh/react)
-- [Fullstack Developer Roadmap](https://roadmap.sh/fullstack)
-- [Data Scientist Roadmap](https://roadmap.sh/data-science)
-- [Machine Learning Engineer Roadmap](https://roadmap.sh/machine-learning)
-- [Mobile Developer Roadmap](https://roadmap.sh/mobile)
+- [Fullstack Developer Roadmap](https://roadmap.sh/full-stack)
+- [Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [Game Developer Roadmap](https://roadmap.sh/game-developer)
-- [Security Engineer Roadmap](https://roadmap.sh/security)
-- [Cloud Developer Roadmap](https://roadmap.sh/cloud)
+- [Software Architect](https://roadmap.sh/software-architect)
 
 Feel free to explore these roadmaps to get insights into the skills and technologies relevant to your desired career path. The detailed guides can be valuable resources for structuring your learning process and staying up-to-date with industry best practices.
 
