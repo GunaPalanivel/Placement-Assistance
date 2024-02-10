@@ -1,6 +1,6 @@
 # Kindly get into the other documents 📃
 
-## Placement-Assistance-Roadmaps 🚀
+## Placement Assistance🚀
 
 Our community-driven approach ensures that our content reflects the latest industry trends and best practices. We believe in fostering a supportive environment where developers can share their experiences, seek advice, and collaborate with peers. By leveraging the collective knowledge of our community, Placement Assistance aims to empower developers to make informed decisions, accelerate their learning curves, and ultimately achieve success in their chosen career paths. Join us on this educational journey as we guide you towards becoming a proficient and well-rounded professional in the dynamic fields of full stack development, front-end development, back-end development, and data science.
 
