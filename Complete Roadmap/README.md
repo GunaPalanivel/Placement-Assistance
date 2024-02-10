@@ -1,5 +1,3 @@
-# Kindly get into the other documents 📃
-
 # Developer Roadmaps 🚀
 
 This project is inspired by the comprehensive roadmaps provided by [roadmap.sh](https://roadmap.sh/), a platform dedicated to offering detailed guides and resources for various technology career paths. The roadmaps on roadmap.sh are designed to help individuals navigate their learning journeys, providing a step-by-step guide on what to learn and in what order.
