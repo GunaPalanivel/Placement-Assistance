@@ -10,6 +10,7 @@ Our community-driven approach ensures that our content reflects the latest indus
 - [Complete Roadmap](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Complete%20Roadmap)
 - [Data Science](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Data%20Science)
 - [Interview](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Interview)
+- [Jobs & Internship](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Jobs%20%26%20Internship)
 - [Software Development](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Software%20Development)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
