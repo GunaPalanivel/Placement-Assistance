@@ -22,6 +22,8 @@ We have set up a discussion forum to facilitate community-driven collaboration. 
 
 [Join the Discussion](https://github.com/GunaPalanivel/Placement-Assistance/discussions)
 
+[WhatsApp Community](https://chat.whatsapp.com/IVEdlCO3rOIEtlDoZrBue3)
+
 ## How to Contribute 🤝
 
 Contributions are welcome! If you find any issues, have improvements to suggest, or want to add more content, please feel free to contribute! Follow these steps:
