@@ -88,7 +88,7 @@ Understand the basics of command line navigation and usage. This is essential fo
 
   **optional**
 
-  having some familiarity with Linux and WSL can broaden your skill set and make you more versatile as a web developer, especially if you plan to work on projects that involve Linux-based servers 🐧.
+  having some familiarity with [Linux and WSL](https://drive.google.com/file/d/1elJs3JbKsH9ZyoRl5rhQyWV5dwWpwSBY/view?usp=sharing) can broaden your skill set and make you more versatile as a web developer, especially if you plan to work on projects that involve Linux-based servers 🐧.
 
 ### 7. **Basic Front-End Knowledge**
 
