@@ -28,9 +28,9 @@ If you're looking for websites that offer free educational content and provide r
 
    - LinkedIn Learning offers a one-month free trial period during which you can access its extensive library of courses. While not entirely free in the long term, it can be a valuable resource, and completing courses can be highlighted on your LinkedIn profile.
 
-8. [**ClassCentral/FreeCodeCamp**](https://www.classcentral.com/provider/freecodecamp?certificate=true)
+8. [**ClassCentral**](https://www.classcentral.com/report/free-certificates/)
 
-   - ClassCentral is a search engine and reviews site for free online courses. It provides a list of free courses from FreeCodeCamp that offer certificates upon completion.
+   - ClassCentral provides a list of free online courses from various platforms, many of which offer certificates upon completion. This can be a useful resource for finding free educational content and certifications.
 
 ---
 
