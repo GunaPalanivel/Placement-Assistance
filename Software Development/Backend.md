@@ -102,7 +102,7 @@ Having a basic understanding of [front-end technologies](https://github.com/Guna
 ### 9. **Projects and Portfolio**
 
 - Build practical [projects](https://github.com/GunaPalanivel/Placement-Assistance/blob/main/Software%20Development%2FProjects.md) that showcase your skills.
-- Create a [portfolio](https://github.com/avinash201199/Portfolio-Collection?fbclid=PAAaYxR5XgJkq1QcsbjYLXp9dE7KBz_68PK6QlOsL190VMnRMbVr4nA-HT4LQ) to demonstrate your projects, skills, and contributions.
+- Create a [portfolio](https://github.com/GunaPalanivel/Placement-Assistance/blob/main/Software%20Development%2FPortfolio.md) to demonstrate your projects, skills, and contributions.
 
 ### 10. **Continuous Learning**
 
