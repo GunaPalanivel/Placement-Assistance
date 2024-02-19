@@ -55,8 +55,8 @@ As a college student aspiring to become a front-end developer and land your firs
 
 6. **Projects and Portfolio**
 
-- Build practical projects that showcase your skills.
-- Create a portfolio to demonstrate your projects, skills, and contributions.
+- Build practical [projects](https://github.com/GunaPalanivel/Placement-Assistance/blob/main/Software%20Development%2FProjects.md) that showcase your skills.
+- Create a [portfolio](https://github.com/avinash201199/Portfolio-Collection?fbclid=PAAaYxR5XgJkq1QcsbjYLXp9dE7KBz_68PK6QlOsL190VMnRMbVr4nA-HT4LQ) to demonstrate your projects, skills, and contributions.
 
 7. **Continuous Learning**
 
