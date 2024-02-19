@@ -13,7 +13,7 @@ Our community-driven approach ensures that our content reflects the latest indus
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
-## [Job's and Internship's](https://github.com/GunaPalanivel/Job-and-Internship)
+## Job's and Internship's
 
 ### [🚀 Exciting Internship and Job Opportunities in Software Development and Data Science!](https://github.com/GunaPalanivel/Job-and-Internship)
 
