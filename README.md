@@ -31,10 +31,6 @@ We are thrilled to announce internship and job opportunities in the dynamic fiel
 
 - Explore rewarding career paths and contribute to cutting-edge projects.
 
-### 📅 Stay Tuned
-
-**Keep an eye on our repository, as we'll be sharing detailed job offers and internship positions very soon! Exciting opportunities await, and we can't wait to have you on board.**
-
 ## Discussion
 
 We have set up a discussion forum to facilitate community-driven collaboration. Join us on this educational journey as we guide you towards becoming a proficient and well-rounded professional in the dynamic fields of full stack development, front-end development, back-end development, and data science.
