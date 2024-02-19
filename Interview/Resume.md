@@ -117,7 +117,11 @@
 
 ## Sample of an ATS-Friendly Resume:
 
-### WIP: Developer will look into this later.
+### Teal
+
+[**1,500+ Resume Examples (+ Tools & Guidance) to Help You Win in 2024**](https://www.tealhq.com/resume-examples)
+
+- This is an article about building resumes in 2024. It discusses what a professional resume is and the importance of tailoring it to the job you are applying for. It also details the different resume formats and the tools Teal offers to help you with your job search. Some of the important points are that your resume should be carefully crafted to highlight your skills and experience, and that there are free and paid resume builder tools available to help you create a professional-looking document.
 
 ---
 

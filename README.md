@@ -1,5 +1,3 @@
-# Kindly get into the other documents 📃
-
 ## Placement Assistance🚀
 
 Our community-driven approach ensures that our content reflects the latest industry trends and best practices. We believe in fostering a supportive environment where developers can share their experiences, seek advice, and collaborate with peers. By leveraging the collective knowledge of our community, Placement Assistance aims to empower developers to make informed decisions, accelerate their learning curves, and ultimately achieve success in their chosen career paths. Join us on this educational journey as we guide you towards becoming a proficient and well-rounded professional in the dynamic fields of full stack development, front-end development, back-end development, and data science.
@@ -10,11 +8,32 @@ Our community-driven approach ensures that our content reflects the latest indus
 - [Complete Roadmap](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Complete%20Roadmap)
 - [Data Science](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Data%20Science)
 - [Interview](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Interview)
-- [Jobs & Internship](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Jobs%20%26%20Internship)
 - [Software Development](https://github.com/GunaPalanivel/Placement-Assistance/tree/main/Software%20Development)
-- [License](#license)
-- [How to Contribute](#how-to-contribute)
 - [Discussion](https://github.com/GunaPalanivel/Placement-Assistance/discussions)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+
+## Job's and Internship's
+
+### [🚀 Exciting Internship and Job Opportunities in Software Development and Data Science!](https://github.com/GunaPalanivel/Job-and-Internship)
+
+**Dear Repository Visitors,**
+
+We are thrilled to announce internship and job opportunities in the dynamic field of software development and Data Science.
+
+### Opportunities
+
+**Internship Positions**
+
+- Gain hands-on experience and mentorship in various areas of software development.
+
+**Full-time Job Openings**
+
+- Explore rewarding career paths and contribute to cutting-edge projects.
+
+### 📅 Stay Tuned
+
+**Keep an eye on our repository, as we'll be sharing detailed job offers and internship positions very soon! Exciting opportunities await, and we can't wait to have you on board.**
 
 ## Discussion
 
