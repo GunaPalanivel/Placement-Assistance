@@ -13,24 +13,6 @@ Our community-driven approach ensures that our content reflects the latest indus
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
-## Job's and Internship's
-
-### [🚀 Exciting Internship and Job Opportunities in Software Development and Data Science!](https://github.com/GunaPalanivel/Job-and-Internship)
-
-**Dear Repository Visitors,**
-
-We are thrilled to announce internship and job opportunities in the dynamic field of software development and Data Science.
-
-### Opportunities
-
-**Internship Positions**
-
-- Gain hands-on experience and mentorship in various areas of software development.
-
-**Full-time Job Openings**
-
-- Explore rewarding career paths and contribute to cutting-edge projects.
-
 ## Discussion
 
 We have set up a discussion forum to facilitate community-driven collaboration. Join us on this educational journey as we guide you towards becoming a proficient and well-rounded professional in the dynamic fields of full stack development, front-end development, back-end development, and data science.
